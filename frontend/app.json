@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Health Food Recommender",
+    "slug": "health-food-recommender",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f5f7fb"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
